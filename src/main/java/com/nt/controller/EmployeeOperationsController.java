@@ -89,5 +89,8 @@ public class EmployeeOperationsController {
 		map.put("listEmps", list);
 		return "show_report";
 	}
+	void display () {
+		System.out.println("Hello");
+	}
 
 }
