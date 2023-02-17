@@ -91,6 +91,7 @@ public class EmployeeOperationsController {
 	}
 	void display () {
 		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 
 }
